@@ -1,7 +1,7 @@
 # Hi there, I'm Sebastian Tampu! 👋
 
 ### 🚀 About Me
-I'm a **Machine Learning Engineer** and **Data Scientist** with a fixation for solving complex problems and uncovering insights through data. My journey started with a background in **physics**, evolved into **data science**, with a particular focus on **AI and machine learning**.  
+I'm a **Machine Learning Engineer** and **Data Scientist** with a fixation for solving complex problems and uncovering insights through data. My journey started with a background in **physics** and evolved into **data science**, with a particular focus on **AI and machine learning**.  
 
 I'm always exploring how cutting-edge technology can merge with creativity and strategy—whether it's building **emotion detection models**, designing **AI-driven D&D content**, or analyzing **sports and racing data**.
 
