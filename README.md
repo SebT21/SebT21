@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @SebT21
-- 👀 I’m interested in perhaps too many things. It always gives me a tough time choosing what to focus on. I love analyzing everything around me and predicting what will happen next.
-- 🌱 I’m currently learning about data science, machine learning, and statistics.
-- 💞️ I’m looking to collaborate on projects dealing with any topic. I get interested in pretty much everything I work on, so any collaboration, no matter how different to my work, is welcome.
-- 📫 How to reach me: My email is sebastian.tampu@gmail.com
+# Hi there, I'm Sebastian Tampu! 👋
 
-I'm starting out, so still figuring out formatting options and what not. Everything will probably be getting constantly updated as I learn about more options, but it will still be organized logically regardless. All repositories have self-explanatory titles and the README files inside will describe all the other projects inside.
-<!---
-SebT21/SebT21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+I'm a **Machine Learning Engineer** and **Data Scientist** with a fixation for solving complex problems and uncovering insights through data. My journey started with a background in **physics**, evolved into **data science**, with a particular focus on **AI and machine learning**.  
+
+I'm always exploring how cutting-edge technology can merge with creativity and strategy—whether it's building **emotion detection models**, designing **AI-driven D&D content**, or analyzing **sports and racing data**.
+
+### 🛠️ What I Do
+- **AI/ML Development**: Specializing in deep learning, clustering, and predictive modeling. Quickly improving my generative models.
+- **Data Visualization**: Creating dashboards and visual stories using Tableau, Power BI, and Python.
+- **Perdonalized Coding Projects**: Combining my interests in **physics**, **games**, and **strategy** with practical AI applications.
+
+### 💡 Current Projects
+- Developing a **Go strategy assistant** powered by machine learning.
+- Exploring **F1 performance analysis** with AI.
+- Building **generative AI models** for D&D and fantasy storytelling.
+
+### 🌍 Interests
+When I'm not coding, you'll find me:
+- Learning whatever I can, from languages to music production and trying to improve at the game of **Go**.
+- Immersed in **D&D world-building** and fantasy stories.
+- Watching **F1** or **Borussia Dortmund**.
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-tampu/)  
+- 📧 Email me at **sebastian.tampu@gmail.com**
